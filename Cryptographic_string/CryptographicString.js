@@ -24,4 +24,4 @@ function changeString(len , k , str){
     return str ;
 }
 console.log(changeString(3,1 , "abz"))
-console.log(changeString(3,1 , "abz"))
+console.log(changeString(4,5 , "abcd"))
